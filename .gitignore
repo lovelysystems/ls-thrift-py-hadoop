@@ -1,0 +1,12 @@
+/dist/
+/build/
+/src/
+/bin/
+/parts/
+.DS_Store
+*~
+develop-eggs/
+*.egg-info/
+.installed.cfg
+*.pyc
+*.pyo
