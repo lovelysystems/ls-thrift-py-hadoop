@@ -29,7 +29,7 @@ long_description='\n'.join((
 
 setup(
     name="ls-thrift-py-hadoop",
-    version="1_cdh3u2",
+    version="1_cdh4.1.3",
     description="Hadoop and Hive Python Thrift Libs",
     url="https://github.com/lovelysystems/ls-thrift-py-hadoop",
     long_description=long_description,
